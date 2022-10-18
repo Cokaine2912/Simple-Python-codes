@@ -1,3 +1,4 @@
+# Function For Checking Prime Number 
 def prime_checker(n) :
   n  = int(input())
   d = []
