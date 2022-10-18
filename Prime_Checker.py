@@ -7,9 +7,3 @@ def prime_checker(n) :
     print("IT IS A PRIME")  
   else :
     print("NOT PRIME")
-
-
-
-
-
-
